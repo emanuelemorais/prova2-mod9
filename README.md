@@ -27,3 +27,8 @@ go test
 ```
 
 Esse teste irá comparar a mensagem enviada e a recebida para assegurar que não ouve divergencias ao passar pela fila e verifica a persistencia a partir da instalação do mongo db.
+
+
+## Video
+
+https://drive.google.com/file/d/1-YXAMUmbTTMD7Dx-arebLvK17p3LHf8U/view?usp=sharing
